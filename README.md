@@ -6,6 +6,6 @@ https://data.cityofrochester.gov/datasets/masterbikedata2018csv/data
 
 
 **Team**:
-Frank Gonzalez
-Hunter Watkins
+Frank Gonzalez,
+Hunter Watkins,
 Chanyoung Woo
