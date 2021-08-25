@@ -4,20 +4,20 @@ Data Analysis of pace bike trips in the Rochester area. This was a team effort a
 Simply download the html document and open it with the browser of your preference from your end. Html document contains animation and other graphics.
 
 **R Packages**:
-gridExtra
-lubridate
-knitr
-gganimate
-tidyverse
-ggmap
-ggthemes
-scales
-extrafont
-ggplot2
-ggridges
-dplyr
-tidyr
-viridis
+gridExtra,
+lubridate,
+knitr,
+gganimate,
+tidyverse,
+ggmap,
+ggthemes,
+scales,
+extrafont,
+ggplot2,
+ggridges,
+dplyr,
+tidyr,
+viridis,
 highcharter
  
 **Team**:
